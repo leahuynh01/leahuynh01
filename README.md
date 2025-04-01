@@ -10,20 +10,19 @@
 
 I eat data for breakfast 🍜, ML for lunch 🥗 and AI for dinner 🍻
 
-I currently develop data science projects focusing on solving business problem. My approach for each project includes understanding business problems, analyzing data, extracting insights, implementing solutions then updating the solution with the newest technology ... if possible!
+I am currently working on data science projects focusing on solving business problem. My approach for each project includes understanding business problems, analyzing data, extracting insights, implementing solutions then updating the solution with the newest technology.
 
 Check my portfolio for a deep dive into my work! 👀
 
 ### Education 🎓
+- Master in Computer Science, University of Illinois Urbana-Champaign
 - Bachelors in Data Science, University of California, Berkeley
 
 ### Data Science Projects 👩🏻‍💻
 
-* ### [Project name](https://github.com)
+* ### [CUSTOMER CHURN PREDICTION (BANK)](https://github.com/leahuynh01/Customer-Churn-Prediction-Bank-)
 
-  	Description
-
-
+  	Customer churn is a critical issue for Banks, leading to revenue loss, low customer engagement and increased acquisition costs. This project aims to predict customer churn by identifying key factors influencing retention and enabling businesses to take proactive measures.
 
 ### Tools 🛠️
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -40,4 +39,4 @@ Check my portfolio for a deep dive into my work! 👀
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leahuynh01&show_icons=true&locale=en" alt="leahuynh01" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leahuynh01&" alt="leahuynh01" /></p
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leahuynh01&" alt="leahuynh01" /></p -->
