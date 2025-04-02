@@ -20,7 +20,7 @@ Check my portfolio for a deep dive into my work! 👀
 
 ### Data Science Projects 👩🏻‍💻
 
-* ### [CUSTOMER CHURN PREDICTION (BANK)](https://github.com/leahuynh01/Customer-Churn-Prediction-Bank-)
+* ### [Customer Churn Prediction (Bank)](https://github.com/leahuynh01/Customer-Churn-Prediction-Bank-)
 
   	Customer churn is a critical issue for Banks, leading to revenue loss, low customer engagement and increased acquisition costs. This project aims to predict customer churn by identifying key factors influencing retention and enabling businesses to take proactive measures.
 
