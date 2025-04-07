@@ -24,6 +24,10 @@ Check my portfolio for a deep dive into my work! 👀
 
   	Customer churn is a critical issue for Banks, leading to revenue loss, low customer engagement and increased acquisition costs. This project aims to predict customer churn by identifying key factors influencing retention and enabling businesses to take proactive measures.
 
+* ### [Retail Customer Segmentation & Product Recommendation](https://github.com/leahuynh01/Customer-Segmentation-Online-Retail)
+
+  	This project segments retail customers using RFM analysis and K-Means clustering, followed by product recommendations with the Apriori algorithm, aiming to improve targeted marketing and customer experience.
+
 ### Tools 🛠️
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="mysql" width="40" height="40"/> </a> 
